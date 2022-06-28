@@ -12,6 +12,7 @@ The first and foremost chart that we created had the sums of total ride, total d
 ![image1](https://github.com/Ajsforlife/Pyber_Analysis/blob/main/challenge_pictures/Screenshot%202022-06-27%20180931.png)
 
 The next major part that is somewhat hidden is to remove the time stamp from the dates which changes what some of the future data looks like because it will sum all the fares for those dates, but here is the original code which I had help with from a fellow coder, whom I mentioned.
+
 ![image2](https://github.com/Ajsforlife/Pyber_Analysis/blob/main/challenge_pictures/Screenshot%202022-06-27%20181647.png)
 
 Next we have 2 charts one with the sums of everyday in the dataframe and one with the sums of the specific dates between 29-01-01 and 2019-04-28 which reduced the rows in the data frame by 10. first one is before and second one is after filtering by date.

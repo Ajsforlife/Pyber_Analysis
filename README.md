@@ -16,6 +16,7 @@ The next major part that is somewhat hidden is to remove the time stamp from the
 ![image2](https://github.com/Ajsforlife/Pyber_Analysis/blob/main/challenge_pictures/Screenshot%202022-06-27%20181647.png)
 
 Next we have 2 charts one with the sums of everyday in the dataframe and one with the sums of the specific dates between 29-01-01 and 2019-04-28 which reduced the rows in the data frame by 10. first one is before and second one is after filtering by date.
+
 ![image3](https://github.com/Ajsforlife/Pyber_Analysis/blob/main/challenge_pictures/before%20date%20modification.png)
 ![image4](https://github.com/Ajsforlife/Pyber_Analysis/blob/main/challenge_pictures/modifid%20by%20date.png)
 

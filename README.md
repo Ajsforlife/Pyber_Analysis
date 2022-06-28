@@ -7,7 +7,8 @@
 The sole purpose of the analysis was to create ride=sharing data that was filtered by city type. Upon having the data we were to process the data and create a multiple line chart which compared the total fares for each city type. We were to find the sum of the total rides by city type, sum of the total drivers by ity type, sum of the total fares by city type, the average fare per ride in that city type and the aveage fare per driver per that city type. In finding all of these statsitics we then used ther pivot() function to create a pivot chart and the resample() function also to create yet another new data set which we then used to create a multiple line graph showing the final data set from the resample() function.
    
 ## Results
-The first and foremost chart that we created had the sums of total ride, total drivers, total fares, and the average fare per rider and average fare per driver. the picture is below. 
+The first and foremost chart that we created had the sums of total ride, total drivers, total fares, and the average fare per rider and average fare per driver. the picture is below.
+
 ![image1](https://github.com/Ajsforlife/Pyber_Analysis/blob/main/challenge_pictures/Screenshot%202022-06-27%20180931.png)
 
 The next major part that is somewhat hidden is to remove the time stamp from the dates which changes what some of the future data looks like because it will sum all the fares for those dates, but here is the original code which I had help with from a fellow coder, whom I mentioned.
